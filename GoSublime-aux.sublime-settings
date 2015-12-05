@@ -1,0 +1,12 @@
+{
+	"9o.hist./home/gilad/dev/go/gowiki":
+	[
+		"build",
+		"wiki",
+		"go build wiki.go",
+		"./wiki"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}

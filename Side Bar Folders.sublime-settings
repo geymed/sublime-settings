@@ -1,0 +1,159 @@
+{
+	"folders":
+	[
+		{
+			"path": "/var/www/html/wordpress/wp-content/plugins/jetpack"
+		},
+		{
+			"path": "/var/www/html/wordpress/wp-content/plugins"
+		},
+		{
+			"path": "/home/gilad/src/github/relax"
+		},
+		{
+			"path": "/home/gilad/src/github/refluxjs-todo"
+		},
+		{
+			"path": "/home/gilad/src/github/redux/examples/shopping-cart"
+		},
+		{
+			"path": "/home/gilad/src/github/redux/examples/async"
+		},
+		{
+			"path": "/home/gilad/src/github/redux/examples"
+		},
+		{
+			"path": "/home/gilad/src/github/getting-started-with-react"
+		},
+		{
+			"path": "/home/gilad/src/github/flux"
+		},
+		{
+			"path": "/home/gilad/src/github"
+		},
+		{
+			"path": "/home/gilad/src/ember-cli-ab-test"
+		},
+		{
+			"path": "/home/gilad/src/duda/insite/inout-wp-plugin"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"tmp",
+				".idea",
+				".sass-cache"
+			],
+			"path": "/home/gilad/src/duda/insite/inout-wizard/iowizard-web/src/main/webapp/wizard"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"tmp"
+			],
+			"path": "/home/gilad/src/duda/insite/inout-server/ioserver-servlet/src/main/webapp/admin/manage/insites-admin"
+		},
+		{
+			"path": "/home/gilad/src/duda/insite/inout-inline"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"tmp"
+			],
+			"path": "/home/gilad/src/duda/insite/inout-dashboard/iodashboard-web/src/main/webapp/dashboard"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"tmp"
+			],
+			"path": "/home/gilad/src/duda/insite/inout-browser/iobrowser-web/src/main/webapp/browser"
+		},
+		{
+			"path": "/home/gilad/src/duda/duda3/DudaRoot/war"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				".gwt",
+				".settings",
+				".externalToolBuilders"
+			],
+			"path": "/home/gilad/src/duda/duda3/DudaRoot/"
+		},
+		{
+			"path": "/home/gilad/src/duda/duda3"
+		},
+		{
+			"path": "/home/gilad/src/duda/duda-www/_templates/jake"
+		},
+		{
+			"path": "/home/gilad/src/duda/duda-wiki"
+		},
+		{
+			"path": "/home/gilad/dev/ruby/MySite"
+		},
+		{
+			"path": "/home/gilad/dev/private/my-gantt"
+		},
+		{
+			"path": "/home/gilad/dev/github/react-redux-universal-hot-example"
+		},
+		{
+			"path": "/home/gilad/dev/github/my-app"
+		},
+		{
+			"path": "/home/gilad/dev/github/markdown-preview"
+		},
+		{
+			"path": "/home/gilad/dev/github/ghstatus"
+		},
+		{
+			"path": "/home/gilad/dev/github/este-app/webpack"
+		},
+		{
+			"path": "/home/gilad/dev/github/este-app/src"
+		},
+		{
+			"path": "/home/gilad/dev/github/este-app/node_modules"
+		},
+		{
+			"path": "/home/gilad/dev/github/este-app/build"
+		},
+		{
+			"path": "/home/gilad/dev/github/este-app/assets"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime-workspace"
+			],
+			"folder_exclude_patterns":
+			[
+				"assets",
+				"build",
+				"node_modules",
+				"src",
+				"webpack"
+			],
+			"name": "/",
+			"path": "/home/gilad/dev/github/este-app"
+		},
+		{
+			"path": "/home/gilad/dev/github/ember-cli-mode-resolver"
+		},
+		{
+			"path": "/home/gilad/dev/github/abmath"
+		},
+		{
+			"path": "/home/gilad/dev/github"
+		},
+		{
+			"path": "/home/gilad/dev/geymed/pct/pctech-app"
+		},
+		{
+			"path": "/home/gilad/apps/activator-dist-1.3.6/geymed-play"
+		}
+	]
+}

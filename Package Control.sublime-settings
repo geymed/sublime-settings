@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Colorsublime",
+		"Console Exec",
+		"Emmet",
+		"Ensime",
+		"Github Tools",
+		"GitSavvy",
+		"GoSublime",
+		"Gulp",
+		"Handlebars",
+		"JSON Reindent",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownLight",
+		"Material Theme",
+		"Monokai Extended",
+		"npm",
+		"Numix Theme",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"Terminal",
+		"Theme - Coffee",
+		"Theme - Piatto",
+		"Theme - Soda",
+		"Theme - Tech49"
+	]
+}
