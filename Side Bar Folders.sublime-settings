@@ -98,6 +98,9 @@
 			"path": "/home/gilad/dev/private/my-gantt"
 		},
 		{
+			"path": "/home/gilad/dev/learn/nodejs/express"
+		},
+		{
 			"path": "/home/gilad/dev/github/react-redux-universal-hot-example"
 		},
 		{
@@ -154,6 +157,9 @@
 		},
 		{
 			"path": "/home/gilad/apps/activator-dist-1.3.6/geymed-play"
+		},
+		{
+			"path": "/home/gilad/.config/sublime-text-3/Packages/User"
 		}
 	]
 }
